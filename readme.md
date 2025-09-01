@@ -1,5 +1,3 @@
----
-
 # 📝 Atividade Prática – Painel em Tempo Real com Socket.IO
 
 ## 🎯 Objetivo
@@ -72,5 +70,3 @@ O servidor será responsável por monitorar as conexões e as rooms, e o cliente
 * Mostrar um **ranking das rooms** (da mais cheia para a menos cheia).
 * Exibir um **gráfico em tempo real** (pode usar Chart.js).
 * Criar um **alerta visual** quando a quantidade de usuários em uma room ultrapassar um limite (ex: mais de 5 usuários).
-
----
